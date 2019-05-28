@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Think different</title>
+    <link>http://localhost:1313/tags/C&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Think different</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Dec 2016 19:16:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/C++/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;嵌套类访问控制</title>
+      <link>http://localhost:1313/post/Cpp-Nested-class-accessibility/</link>
+      <pubDate>Sat, 31 Dec 2016 19:16:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/Cpp-Nested-class-accessibility/</guid>
+      <description>一直以来都认为C++类里嵌套的类对于外部类的成员遵循基本的规则，该怎样还是得怎样：如果外部类成员是public的则可以访问，private或</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Think different</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Think different</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Dec 2018 22:15:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>快排算法总结</title>
+      <link>http://localhost:1313/post/quicksort-note/</link>
+      <pubDate>Mon, 31 Dec 2018 22:15:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/quicksort-note/</guid>
+      <description>最近复习算法相关的内容，在实现快排的时候遇到一些小问题，总结一下。 基本思想 快排的基本思想比较简单： 选取数组一个元素作为主元。 遍历一遍数组，将</description>
+    </item>
+    
+    <item>
+      <title>mysql存储emoji表情</title>
+      <link>http://localhost:1313/post/mysql-emoji/</link>
+      <pubDate>Thu, 06 Dec 2018 22:06:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/mysql-emoji/</guid>
+      <description>mysql数据库存储emoji表情，总共需要2步，简单总结如下。 服务端设置表格式 建表的时候指定数据库的字符集为utf8mb4： 1 CREATE TABLE user (id int, name</description>
+    </item>
+    
+    <item>
+      <title>leveldb内存分配器Arena的作用</title>
+      <link>http://localhost:1313/post/leveldb-memory-allocater/</link>
+      <pubDate>Sun, 01 Jan 2017 00:26:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/leveldb-memory-allocater/</guid>
+      <description>leveldb有一个简单内存分配器Arena，代码很简单（也许是leveldb最简单的部分了），对外也只是提供了2个接口： 请求返回给定大小的</description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;嵌套类访问控制</title>
+      <link>http://localhost:1313/post/Cpp-Nested-class-accessibility/</link>
+      <pubDate>Sat, 31 Dec 2016 19:16:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/Cpp-Nested-class-accessibility/</guid>
+      <description>一直以来都认为C++类里嵌套的类对于外部类的成员遵循基本的规则，该怎样还是得怎样：如果外部类成员是public的则可以访问，private或</description>
+    </item>
+    
+  </channel>
+</rss>

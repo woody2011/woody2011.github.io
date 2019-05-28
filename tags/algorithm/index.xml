@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithm on Think different</title>
+    <link>http://localhost:1313/tags/algorithm/</link>
+    <description>Recent content in algorithm on Think different</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Dec 2018 22:15:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>快排算法总结</title>
+      <link>http://localhost:1313/post/quicksort-note/</link>
+      <pubDate>Mon, 31 Dec 2018 22:15:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/quicksort-note/</guid>
+      <description>最近复习算法相关的内容，在实现快排的时候遇到一些小问题，总结一下。 基本思想 快排的基本思想比较简单： 选取数组一个元素作为主元。 遍历一遍数组，将</description>
+    </item>
+    
+  </channel>
+</rss>

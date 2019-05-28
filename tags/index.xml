@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Think different</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Think different</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Dec 2018 22:15:27 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>algorithm</title>
+      <link>http://localhost:1313/tags/algorithm/</link>
+      <pubDate>Mon, 31 Dec 2018 22:15:27 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mysql</title>
+      <link>http://localhost:1313/tags/mysql/</link>
+      <pubDate>Thu, 06 Dec 2018 22:06:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leveldb</title>
+      <link>http://localhost:1313/tags/leveldb/</link>
+      <pubDate>Sun, 01 Jan 2017 00:26:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/leveldb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/C&#43;&#43;/</link>
+      <pubDate>Sat, 31 Dec 2016 19:16:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/C&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysql on Think different</title>
+    <link>http://localhost:1313/tags/mysql/</link>
+    <description>Recent content in mysql on Think different</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Dec 2018 22:06:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mysql存储emoji表情</title>
+      <link>http://localhost:1313/post/mysql-emoji/</link>
+      <pubDate>Thu, 06 Dec 2018 22:06:39 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/mysql-emoji/</guid>
+      <description>mysql数据库存储emoji表情，总共需要2步，简单总结如下。 服务端设置表格式 建表的时候指定数据库的字符集为utf8mb4： 1 CREATE TABLE user (id int, name</description>
+    </item>
+    
+  </channel>
+</rss>
