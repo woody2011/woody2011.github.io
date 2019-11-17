@@ -6,10 +6,19 @@
     <description>Recent content on Think different</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 22:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2019 17:42:37 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>golang http client 缓存问题</title>
+      <link>http://localhost:1313/post/golang-http-client-connection-cache/</link>
+      <pubDate>Sun, 17 Nov 2019 17:42:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/golang-http-client-connection-cache/</guid>
+      <description>golang内置的http客户端默认会缓存tcp连接, 官方文档也说到了这个需要注意的地方: A Client is an HTTP client. Its zero value (DefaultClient) is a usable client that uses DefaultTransport. The Client&amp;rsquo;s Transport typically has internal state (cached</description>
+    </item>
     
     <item>
       <title>快排算法总结</title>
