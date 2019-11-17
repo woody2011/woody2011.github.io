@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2019-11-17T17:42:37+08:00</lastmod>
     <priority>0</priority>
@@ -33,6 +39,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/categories/programing/</loc>
+    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/algorithm/</loc>
     <lastmod>2018-12-31T22:15:27+00:00</lastmod>
     <priority>0</priority>
@@ -56,12 +68,6 @@
     <lastmod>2018-12-06T22:06:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2017-01-01T00:26:07+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
