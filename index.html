@@ -23,12 +23,12 @@
 
 
 
-<meta name="generator" content="Hugo 0.69.0 with even 4.0.0" />
+<meta name="generator" content="Hugo 0.69.0 with theme even" />
 
 
-<link rel="canonical" href="http://localhost:1313/" />
-  <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Think different" />
-  <link href="http://localhost:1313/index.xml" rel="feed" type="application/rss+xml" title="Think different" />
+<link rel="canonical" href="https://woody2011.github.io/" />
+  <link href="https://woody2011.github.io/index.xml" rel="alternate" type="application/rss+xml" title="Think different" />
+  <link href="https://woody2011.github.io/index.xml" rel="feed" type="application/rss+xml" title="Think different" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -36,14 +36,15 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
 
 
-<link href="/dist/even.c2a46f00.min.css" rel="stylesheet">
+
+<link href="/sass/main.min.78f8f17bab244b9ee62ad16480c9584d5fc2db06ae20681d1ca225cefd80767c.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.css" integrity="sha256-7TyXnr2YU040zfSP+rEcz29ggW4j56/ujTPwjMzyqFY=" crossorigin="anonymous">
 
 
 <meta property="og:title" content="Think different" />
 <meta property="og:description" content="think different" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/" />
+<meta property="og:url" content="https://woody2011.github.io/" />
 <meta property="og:updated_time" content="2020-05-23T15:32:02+08:00" />
 <meta itemprop="name" content="Think different">
 <meta itemprop="description" content="think different"><meta name="twitter:card" content="summary"/>
@@ -111,19 +112,101 @@
           <section id="posts" class="posts">
     <article class="post">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/">Posts</a></h1>
+    <h1 class="post-title"><a class="post-link" href="/post/bash-tips/">Bash Tips</a></h1>
     <div class="post-meta">
       <span class="post-time"> 2020-05-23 </span>
+      <div class="post-category">
+          <a href="/categories/programing/"> programing </a>
+          </div>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      日常工作中经常会需要处理文本, 这时候利用好shell命令可以事倍功半，这里收集了一些自己用到的命令。 首先有2个文件a.txt和b.txt，内
+    </div>
+    <div class="read-more">
+      <a href="/post/bash-tips/" class="read-more-link">Read more...</a>
+    </div>
+  </div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/golang-http-client-connection-cache/">golang http client 缓存问题</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2019-11-17 </span>
+      <div class="post-category">
+          <a href="/categories/programing/"> programing </a>
+          </div>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      golang内置的http客户端默认会缓存tcp连接, 官方文档也说到了这个需要注意的地方: A Client is an HTTP client. Its zero value (DefaultClient) is a usable client that uses DefaultTransport. The Client&rsquo;s Transport typically has internal state (cached
+    </div>
+    <div class="read-more">
+      <a href="/post/golang-http-client-connection-cache/" class="read-more-link">Read more...</a>
+    </div>
+  </div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/quicksort-note/">快排算法总结</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2018-12-31 </span>
       
     </div>
   </header>
   
   <div class="post-content">
     <div class="post-summary">
-      
+      最近复习算法相关的内容，在实现快排的时候遇到一些小问题，总结一下。 基本思想 快排的基本思想比较简单： 选取数组一个元素作为主元。 遍历一遍数组，将
     </div>
     <div class="read-more">
-      <a href="/post/" class="read-more-link">Read more..</a>
+      <a href="/post/quicksort-note/" class="read-more-link">Read more...</a>
+    </div>
+  </div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/mysql-emoji/">mysql存储emoji表情</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2018-12-06 </span>
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      mysql数据库存储emoji表情，总共需要2步，简单总结如下。 服务端设置表格式 建表的时候指定数据库的字符集为utf8mb4： 1 CREATE TABLE user (id int, name
+    </div>
+    <div class="read-more">
+      <a href="/post/mysql-emoji/" class="read-more-link">Read more...</a>
+    </div>
+  </div>
+</article>
+
+    <article class="post">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/leveldb-memory-allocater/">leveldb内存分配器Arena的作用</a></h1>
+    <div class="post-meta">
+      <span class="post-time"> 2017-01-01 </span>
+      <div class="post-category">
+          <a href="/categories/%E7%BC%96%E7%A8%8B/"> 编程 </a>
+          </div>
+    </div>
+  </header>
+  
+  <div class="post-content">
+    <div class="post-summary">
+      leveldb有一个简单内存分配器Arena，代码很简单（也许是leveldb最简单的部分了），对外也只是提供了2个接口： 请求返回给定大小的
+    </div>
+    <div class="read-more">
+      <a href="/post/leveldb-memory-allocater/" class="read-more-link">Read more...</a>
     </div>
   </div>
 </article>
@@ -132,7 +215,10 @@
   
   <nav class="pagination">
     
-    
+    <a class="next" href="/page/2/">
+        <span class="next-text">Next</span>
+        <i class="iconfont icon-right"></i>
+      </a>
   </nav>
         </div>
         
@@ -142,7 +228,7 @@
 
     <footer id="footer" class="footer">
       <div class="social-links">
-  <a href="http://localhost:1313/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+  <a href="https://woody2011.github.io/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 
 <div class="copyright">
@@ -177,7 +263,10 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/slideout@1.0.1/dist/slideout.min.js" integrity="sha256-t+zJ/g8/KXIJMjSVQdnibt4dlaDxc9zXr/9oNPeWqdg=" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.1.20/dist/jquery.fancybox.min.js" integrity="sha256-XVLffZaxoWfGUEbdzuLi7pwaUJv1cecsQJQqGLe7axY=" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/dist/even.26188efa.min.js"></script>
+
+
+
+<script type="text/javascript" src="/js/main.min.d7b7ada643c9c1a983026e177f141f7363b4640d619caf01d8831a6718cd44ea.js"></script>
 
 
 

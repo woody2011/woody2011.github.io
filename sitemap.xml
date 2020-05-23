@@ -1,127 +1,127 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://woody2011.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/tags/bash/</loc>
+    <loc>https://woody2011.github.io/tags/bash/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/bash-tips/</loc>
+    <loc>https://woody2011.github.io/post/bash-tips/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://woody2011.github.io/categories/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://woody2011.github.io/post/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/programing/</loc>
+    <loc>https://woody2011.github.io/categories/programing/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://woody2011.github.io/tags/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://woody2011.github.io/</loc>
     <lastmod>2020-05-23T15:32:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/golang/</loc>
+    <loc>https://woody2011.github.io/tags/golang/</loc>
     <lastmod>2019-11-17T17:42:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/golang-http-client-connection-cache/</loc>
+    <loc>https://woody2011.github.io/post/golang-http-client-connection-cache/</loc>
     <lastmod>2019-11-17T17:42:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/algorithm/</loc>
+    <loc>https://woody2011.github.io/tags/algorithm/</loc>
     <lastmod>2018-12-31T22:15:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/quicksort-note/</loc>
+    <loc>https://woody2011.github.io/post/quicksort-note/</loc>
     <lastmod>2018-12-31T22:15:27+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/mysql/</loc>
+    <loc>https://woody2011.github.io/tags/mysql/</loc>
     <lastmod>2018-12-06T22:06:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/mysql-emoji/</loc>
+    <loc>https://woody2011.github.io/post/mysql-emoji/</loc>
     <lastmod>2018-12-06T22:06:39+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/leveldb/</loc>
+    <loc>https://woody2011.github.io/tags/leveldb/</loc>
     <lastmod>2017-01-01T00:26:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/leveldb-memory-allocater/</loc>
+    <loc>https://woody2011.github.io/post/leveldb-memory-allocater/</loc>
     <lastmod>2017-01-01T00:26:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://woody2011.github.io/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2017-01-01T00:26:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/C&#43;&#43;/</loc>
+    <loc>https://woody2011.github.io/tags/C&#43;&#43;/</loc>
     <lastmod>2016-12-31T19:16:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/Cpp-Nested-class-accessibility/</loc>
+    <loc>https://woody2011.github.io/post/Cpp-Nested-class-accessibility/</loc>
     <lastmod>2016-12-31T19:16:12+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
