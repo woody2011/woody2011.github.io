@@ -2,33 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/tags/bash/</loc>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/bash-tips/</loc>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/programing/</loc>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-05-23T15:32:02+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/golang/</loc>
     <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -39,15 +65,10 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/programing/</loc>
-    <lastmod>2019-11-17T17:42:37+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://localhost:1313/tags/algorithm/</loc>
     <lastmod>2018-12-31T22:15:27+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -60,7 +81,8 @@
   <url>
     <loc>http://localhost:1313/tags/mysql/</loc>
     <lastmod>2018-12-06T22:06:39+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -73,7 +95,8 @@
   <url>
     <loc>http://localhost:1313/tags/leveldb/</loc>
     <lastmod>2017-01-01T00:26:07+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -86,13 +109,15 @@
   <url>
     <loc>http://localhost:1313/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2017-01-01T00:26:07+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/tags/C&#43;&#43;/</loc>
     <lastmod>2016-12-31T19:16:12+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
